@@ -90,13 +90,9 @@ This folder contains **5 end-to-end data analysis projects** spanning multiple r
 
 ---
 
-### 3. What Does "How to Run Locally" Mean?
-**"How to Run Locally"** is a standard instructions section included in software and data science documentation. 
+## 🚀 How to Run Locally
 
-* **"Locally"** simply refers to a person's **own computer** (their laptop or desktop), as opposed to viewing the static files on the internet (GitHub).
-* Because recruiters, hiring managers, or internship evaluators often want to test your code themselves, this section tells them the exact terminal commands they need to type to:
-  1. **Download (clone)** a copy of your project folder onto their computer (`git clone ...`).
-  2. **Install** the required Python libraries so the code doesn't crash (`pip install ...`).
-  3. **Open** the notebooks in their own Jupyter environment (`jupyter lab`).
-
-Having clear "How to Run Locally" instructions is considered an industry best practice and checks off the **"Setup Instructions"** requirement on your internship evaluation rubric!
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/787870/The-Developers-Arena.git](https://github.com/787870/The-Developers-Arena.git)
+   cd "The-Developers-Arena/Month 2"
