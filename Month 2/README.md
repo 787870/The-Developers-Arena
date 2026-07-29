@@ -91,3 +91,5 @@ This folder contains **5 end-to-end data analysis projects** spanning multiple r
 3. **Launch Jupyter Lab / Notebook:**
    ```bash
    jupyter lab
+
+4. Open any `.ipynb` notebook file and click **Run > Run All Cells** to reproduce the analysis and charts.
