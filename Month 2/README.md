@@ -83,3 +83,7 @@ This folder contains **5 end-to-end data analysis projects** spanning multiple r
    ```bash
    git clone https://github.com/787870/The-Developers-Arena.git
    cd "The-Developers-Arena/Month 2"
+
+2. **Install Required Python Dependencies:**
+   ```bash
+   pip install pandas numpy matplotlib seaborn jupyterlab
