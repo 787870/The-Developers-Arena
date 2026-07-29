@@ -13,7 +13,7 @@ This repository serves as my professional portfolio for the 6-month Data Science
 * **Project:** Personal Finance Manager (CLI Application)
 * **Concepts:** Object-Oriented Programming (OOP), Data Persistence (CSV), Error Handling.
 
-### Month 2: Data Analysis & Visualization Expertise (In Progress) ⏳
+### [Month 2: Data Analysis & Visualization Expertise](./Month%202) ✅
 * **Project:** Multi-Domain Data Analysis Portfolio
 * **Concepts:** Pandas optimization, Data Cleaning, Statistical Analysis, Interactive Dashboards.
 
