@@ -92,7 +92,7 @@ This folder contains **5 end-to-end data analysis projects** spanning multiple r
 
 ## 🚀 How to Run Locally
 
-1. **Clone the Repository:**
+1. 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/787870/The-Developers-Arena.git](https://github.com/787870/The-Developers-Arena.git)
    cd "The-Developers-Arena/Month 2"
