@@ -96,3 +96,16 @@ This folder contains **5 end-to-end data analysis projects** spanning multiple r
    ```bash
    git clone [https://github.com/787870/The-Developers-Arena.git](https://github.com/787870/The-Developers-Arena.git)
    cd "The-Developers-Arena/Month 2"
+
+pip install pandas numpy matplotlib seaborn jupyterlab
+
+jupyter lab
+
+5. Click the green **Commit changes...** button at the top right to save.
+
+---
+
+### Why are we doing this?
+Your `README.md` is like the cover page or instruction manual for your project. By pasting those steps into the README file on GitHub, you are simply showing **evaluators or recruiters** how *they* can run your project if they download it.
+
+Once you paste that text into your `README.md` on GitHub and click **Commit changes**, your portfolio is **100% finished and ready to submit!**
