@@ -81,15 +81,5 @@ This folder contains **5 end-to-end data analysis projects** spanning multiple r
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/787870/The-Developers-Arena.git](https://github.com/787870/The-Developers-Arena.git)
+   git clone https://github.com/787870/The-Developers-Arena.git
    cd "The-Developers-Arena/Month 2"
-
-   Install Required Python Dependencies:
-
-Bash
-pip install pandas numpy matplotlib seaborn jupyterlab
-Launch Jupyter Lab / Notebook:
-
-Bash
-jupyter lab
-Open any .ipynb notebook file and click Run > Run All Cells to reproduce the analysis and charts.
