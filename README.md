@@ -17,7 +17,7 @@ This repository serves as my professional portfolio for the 6-month Data Science
 * **Project:** Multi-Domain Data Analysis Portfolio
 * **Concepts:** Pandas optimization, Data Cleaning, Statistical Analysis, Interactive Dashboards.
 
-### Month 3: Database Management & APIs 📅
+### [Month 3: Database Management & APIs](./Month%203) ✅
 * **Project:** Complete Weather Data Pipeline System
 * **Concepts:** SQL, API Web Scraping, ETL Pipelines, Data Engineering.
 
