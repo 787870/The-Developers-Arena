@@ -21,11 +21,11 @@ This repository serves as my professional portfolio for the 6-month Data Science
 * **Project:** Complete Weather Data Pipeline System
 * **Concepts:** SQL, API Web Scraping, ETL Pipelines, Data Engineering.
 
-### [Month 4: Machine Learning Fundamentals](. /Month%204) ✅
+### [Month 4: Machine Learning Fundamentals](./Month%204) ✅
 * **Project:** Customer Churn Prediction System
 * **Concepts:** Supervised Learning, Classification, Feature Engineering, Model Evaluation, Scikit-learn.
 
-### [Month 5: Advanced Topics & Specialization](. /Month%205) ✅
+### [Month 5: Advanced Topics & Specialization](./Month%205) ✅
 * **Project:** Supermarket Sales Time Series Forecasting API
 * **Concepts:** Deep Learning (LSTM), FastAPI, Docker Containerization, MLOps, Model Deployment.
 
